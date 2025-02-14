@@ -1,3 +1,2 @@
 # belajar-collab
-Untuk belajar collab<b>
-edit dikit ya
+Untuk belajar collab
